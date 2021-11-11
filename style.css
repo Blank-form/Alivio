@@ -83,7 +83,7 @@ header {
 }
 
 .parallax {
-    background: url(../Photo/Background/BG.jpg);
+    background: url(Photo/Background/BG.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
