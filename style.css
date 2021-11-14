@@ -136,7 +136,8 @@ h1 {
     padding: 20px 50px;
 }
 
-.block-white {
+.
+-white {
     background: white;
     padding-top: 170px;
 }
@@ -294,7 +295,7 @@ h3 {
     height: 800px;
     display: flex;
     justify-content: space-between;
-    background: url(../Photo/card.png) no-repeat bottom left;
+    background: url(Photo/Card.png) no-repeat bottom left;
 }
 
 .img-text p:first-child {
