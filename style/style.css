@@ -623,6 +623,7 @@ header .cap_text .cap_btn {
     ol {
         display: flex;
         width: auto;
+        text-align: center;
         justify-content: center;
     }
     ol a li {
