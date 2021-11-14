@@ -474,7 +474,7 @@ header .cap_text .cap_btn {
     }
     .column1 {
         background: url(../Photo/Logo/01.png) no-repeat center top;
-        padding-bottom: 10px;
+        padding-bottom: 50px;
     }
     .column1 img {
         margin: 0 auto;
@@ -530,7 +530,7 @@ header .cap_text .cap_btn {
     }
     .block-img {
         height: auto;
-        background: url(../Photo/card.png) no-repeat left;
+        background: url(../Photo/Card.png) no-repeat left;
         background-size: 200px;
         background-position-y: 270px;
         background-position-x: -40px;
