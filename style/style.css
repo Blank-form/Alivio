@@ -296,7 +296,7 @@ h3 {
     height: 800px;
     display: flex;
     justify-content: space-between;
-    background: url(../Photo/card.png) no-repeat bottom left;
+    background: url(../Photo/Card.png) no-repeat bottom left;
 }
 
 .img-text p:first-child {
@@ -488,7 +488,7 @@ header .cap_text .cap_btn {
         padding: 20px 0;
     }
     .column2, .column3 {
-        padding-bottom: 10px;
+        padding-bottom: 50px;
     }
     .column2 img {
         margin: 0 auto;
