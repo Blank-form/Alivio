@@ -624,7 +624,8 @@ header .cap_text .cap_btn {
         display: flex;
         width: auto;
         text-align: center;
-        justify-content: center;
+        
+    justify-content: space-between;
     }
     ol a li {
         padding: 0 8px;
